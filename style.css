@@ -1,0 +1,41 @@
+body {
+    white-space: pre-line;
+    text-align: center;
+    height: 85vh;
+    color-scheme: dark !important;
+    background-color:black;
+    color: white;
+}
+div 
+{
+    height: 120%;
+}
+a {
+    position: relative;
+    font-size: 3.5rem;
+}
+a:hover
+{
+    color: rgb(255,0, 149);
+    transition: color 0.5s;
+}
+.prj {
+    right: 25%;
+}
+.cnt {
+    bottom: 30%;
+}
+#mn {
+    position: relative;
+    top: 25%;
+    font-size: 3rem;
+}
+.POET{
+    color: #ff006a;
+    text-shadow:
+      0 0 5px #ff006a,
+      0 0 10px #ff006a;
+}
+.Key {
+    font-size: 2.5rem;
+}
